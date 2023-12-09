@@ -1,0 +1,21 @@
+version 3
+require all
+
+material "A"
+    fbx.ambient_color 0.5882353186607361 0.0 0.0
+    fbx.diffuse_color 0.5882353186607361 0.0 0.0
+
+material "A-2"
+    fbx.ambient_color 0.8352941870689392 0.3450980484485626 0.3450980484485626
+    fbx.diffuse_color 0.8352941870689392 0.3450980484485626 0.3450980484485626
+
+material "A-3"
+    fbx.ambient_color 0.32549020648002625 0.2980392277240753 0.5882353186607361
+    fbx.diffuse_color 0.32549020648002625 0.2980392277240753 0.5882353186607361
+
+material "20 - Default"
+    fbx.ambient_color 0.5882353186607361 0.5882353186607361 0.5882353186607361
+    fbx.diffuse_color 0.5882353186607361 0.5882353186607361 0.5882353186607361
+
+    fbx.diffuse_color.texture "Final\\B-1_albedo.jpg"
+    fbx.diffuse_color.texture absolute "F:\\圖片2\\3DMAX\\CircusPunk\\Final\\B-1_albedo.jpg"

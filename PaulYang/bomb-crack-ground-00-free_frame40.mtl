@@ -1,0 +1,16 @@
+newmtl tyFlow_node_001SG
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl tyFlow_node_001SG1
+illum 4
+Kd 0.69 0.60 0.23
+Ka 0.69 0.60 0.23
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00

@@ -1,0 +1,72 @@
+newmtl AxlesOne_COMFBXASC046008SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 7.61
+newmtl AxlesOne_COMFBXASC046008SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 7.61
+newmtl ChassisOne_COMFBXASC046006SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 7.61
+newmtl FBXASC0546Tire_FRSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 7.61
+newmtl FBXASC0546Tire_RLSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 7.61
+newmtl FordF_BodyFBXASC046004SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 7.61
+newmtl FordF_BodyFBXASC046004SG2
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 7.61
+newmtl FordF_BodyFBXASC046004SG3
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 7.61
+newmtl FordF_BodyFBXASC046004SG4
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 7.61

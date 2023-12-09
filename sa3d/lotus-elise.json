@@ -1,0 +1,10 @@
+{
+    "title": "LOTUS ÉLISE",
+    "author": "Stéphane Agullo",
+    "url": "https://sketchfab.com/3d-models/lotus-elise-75e9045ac1af4cdbb69318108c81edfd",
+    "license": "CC BY 4.0",
+    "features": ["bake"],
+    "options": {
+        "index-error-handling": "no-index"
+    }
+}

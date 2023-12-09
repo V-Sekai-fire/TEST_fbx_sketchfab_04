@@ -1,0 +1,80 @@
+version 1
+require all
+
+material "standardSurface1"
+    shader_type osl_standard_surface
+
+    pbr.base_color 0.8 0.8 0.8
+    pbr.roughness 0.4
+    pbr.metalness 0.0
+    pbr.diffuse_roughness 0.0
+    pbr.specular_factor 1.0
+    pbr.specular_color 1.0 1.0 1.0
+    pbr.specular_ior 1.5
+    pbr.specular_anisotropy 0.0
+    pbr.specular_rotation 0.0
+    pbr.transmission_factor 0.0
+    pbr.transmission_color 1.0 1.0 1.0
+    pbr.transmission_depth 0.0
+    pbr.transmission_scatter 0.0 0.0 0.0
+    pbr.transmission_scatter_anisotropy 0.0
+    pbr.transmission_dispersion 0.0
+    pbr.transmission_extra_roughness 0.0
+    pbr.subsurface_factor 0.0
+    pbr.subsurface_color 1.0 1.0 1.0
+    pbr.subsurface_radius 1.0 1.0 1.0
+    pbr.subsurface_scale 1.0
+    pbr.subsurface_anisotropy 0.0
+    pbr.sheen_factor 0.0
+    pbr.sheen_color 1.0 1.0 1.0
+    pbr.sheen_roughness 0.3
+    pbr.coat_factor 0.0
+    pbr.coat_color 1.0 1.0 1.0
+    pbr.coat_roughness 0.1
+    pbr.coat_ior 1.5
+    pbr.coat_anisotropy 0.0
+    pbr.coat_rotation 0.0
+    pbr.coat_affect_base_color 0.0
+    pbr.coat_affect_base_roughness 0.0
+    pbr.emission_factor 0.0
+    pbr.emission_color 1.0 1.0 1.0
+    pbr.opacity 1.0 1.0 1.0
+    pbr.normal_map 1.0 1.0 1.0
+
+material "Floor_MAT"
+    shader_type fbx_phong
+
+    fbx.diffuse_color.texture "D:\\MDS\\GAT140\\Floor_Diff.png"
+
+material "ViewScreen_MAT"
+    shader_type fbx_phong
+
+    fbx.diffuse_color.texture "D:\\MDS\\GAT140\\SciFi_TrimSheet.png"
+
+material "Door_MAT"
+    shader_type fbx_phong
+
+    fbx.diffuse_color.texture "D:\\MDS\\GAT140\\Floor_Diff.png"
+    fbx.specular_color.texture "D:\\MDS\\GAT140\\SciFiWall_Dif.png"
+
+material "lambert1"
+    shader_type fbx_lambert
+
+material "Crate_MAT"
+    shader_type fbx_phong
+
+    fbx.diffuse_color.texture "D:\\MDS\\GAT140\\SciFloor_Dif.png"
+    fbx.specular_color.texture "D:\\MDS\\GAT140\\SciFloor_Spec.png"
+
+material "pasted__Crate_MAT"
+    shader_type fbx_phong
+
+    fbx.diffuse_color.texture "D:\\MDS\\GAT140\\SciFloor_Dif.png"
+    fbx.specular_color.texture "D:\\MDS\\GAT140\\SciFloor_Spec.png"
+
+material "pasted__Crate_MAT1"
+    shader_type fbx_phong
+
+    fbx.diffuse_color.texture "D:\\MDS\\GAT140\\SciFloor_Dif.png"
+    fbx.specular_color.texture "D:\\MDS\\GAT140\\SciFloor_Spec.png"
+

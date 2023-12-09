@@ -1,0 +1,40 @@
+newmtl Object001SG
+illum 4
+Kd 0.32 0.48 0.26
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns -1.00
+newmtl dongzuokuSG
+illum 4
+Kd 0.32 0.48 0.26
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns -1.00
+newmtl dongzuokuSG1
+illum 4
+Kd 0.53 0.53 0.53
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.19 0.19 0.19
+Ns 30.00
+newmtl jinshutoukuiSG
+illum 4
+Kd 0.63 0.63 0.63
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 2.59
+newmtl t00_91SG
+illum 4
+Kd 0.63 0.63 0.63
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 0.64
